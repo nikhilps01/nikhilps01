@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/nikhilps01/nikhilps01/main/banner%20(2).png" alt="Nikhil Prasad Sah Banner" width="100%">
-</p>
+</div>
 <br/>
 
 <img src="./assets/avatar.png" width="155" alt="Nikhil Prasad Sah" />
