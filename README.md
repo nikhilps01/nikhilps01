@@ -1,7 +1,5 @@
 <div align="center">
 
-<
-
 # Hi, I'm Nikhil Prasad Sah 👋
 
 ### Full-Stack Developer • MERN Stack • C++ • AI/ML Enthusiast
