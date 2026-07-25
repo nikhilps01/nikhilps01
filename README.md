@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="<img width="1983" height="793" alt="banner (2)" src="https://github.com/user-attachments/assets/f46eb025-b4f9-4ea7-a174-9ef7103906e0" />
-" width="100%" alt="Nikhil Prasad Sah cyberpunk banner" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikhilps01/nikhilps01/main/banner.png" width="100%" alt="Nikhil Prasad Sah Banner"/>
+</p>
 <br/>
 
 <img src="./assets/avatar.png" width="155" alt="Nikhil Prasad Sah" />
