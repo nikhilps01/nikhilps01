@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Nikhil Prasad Sah cyberpunk banner" />
-
-<br/>
-
-<img src="./assets/avatar.png" width="155" alt="Nikhil Prasad Sah" />
+<
 
 # Hi, I'm Nikhil Prasad Sah 👋
 
