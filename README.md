@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/nikhil-prasad-sah-33a78328b">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="#contact">
+<a href="ng3967212@gmail.com">
   <img src="https://img.shields.io/badge/Email-Add%20Later-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="#portfolio">
